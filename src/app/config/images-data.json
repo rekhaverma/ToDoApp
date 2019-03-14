@@ -1,0 +1,26 @@
+[
+    {
+        "design_img_url": "../assets/images/1.jpeg",
+        "design_name":"",
+        "suitable_fabric":"",
+        "cost_of_stitching":"",
+        "designer_name":"",
+        "our_price":""
+    },
+    {
+        "design_img_url": "../assets/images/2.jpeg",
+        "design_name":"",
+        "suitable_fabric":"",
+        "cost_of_stitching":"",
+        "designer_name":"",
+        "our_price":""
+    },
+    {
+        "design_img_url": "../assets/images/3.jpeg",
+        "design_name":"",
+        "suitable_fabric":"",
+        "cost_of_stitching":"",
+        "designer_name":"",
+        "our_price":""
+    }
+]

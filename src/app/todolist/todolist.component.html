@@ -1,0 +1,15 @@
+<div>
+  <input type="text" [(ngModel)]="newTodo.name"/>
+  <button (click)='addToDo()'>Add</button>
+</div>
+<ul class="container todo-list">
+  <li *ngFor="let item of todos">
+    <div class="view">
+      <input class="toggle" type="checkbox">
+      <label>{{item.name}}</label>
+      <a (click)="deleteToDo(item)" class="btn btn-danger btn-circle btn-sm">
+        <i class="fa fa-trash"></i>
+      </a>
+    </div>
+  </li>
+</ul>
